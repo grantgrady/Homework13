@@ -1,9 +1,9 @@
-# Homework 13: 3D Models, Textiles & Interaction
+# Homework 13: 3D Models, Textures & Interaction
 
 ## Name: Grant Grady
 
 ## Project Overview
-"Interstellar Crystal" is an interactive 3D artwork featuring an imported 3D model at the center, surrounded by five textured orbiting geometric forms. The piece explores spatial relationships and user interaction through mouse clicks that reposition objects randomly.
+This is an interactive 3D artwork featuring an imported 3D model at the center, surrounded by five textured orbiting geometric forms. The piece explores spatial relationships and user interaction through mouse clicks that reposition objects randomly.
 
 ### Features
 - **Imported 3D Model** | Central octahedron loaded from OBJ file |
