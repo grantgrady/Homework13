@@ -1,4 +1,4 @@
-# Homework 13: Interstellar Crystal
+# Homework 13: 3D Models, Textiles & Interaction
 
 ## Name: Grant Grady
 
