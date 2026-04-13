@@ -26,14 +26,6 @@
 4. **Cone** - Textured conical shape
 5. **Torus** - Textured ring geometry
 
-### Textures Applied:
-- **5 Procedural Textures** - Generated using `createGraphics()` with different patterns:
-  - Starfield background
-  - Striped pattern
-  - Organic shapes
-  - Concentric circles
-  - Rectangular blocks
-
 ### Materials & Lighting:
 - **ambientMaterial()** - Applied to all orbiting objects
 - **normalMaterial()** - Used for the central model
@@ -76,21 +68,3 @@ I referenced:
 - **p5.js Reference**: Official documentation for all 3D primitive functions
 
 All code was written by me, with AI assistance for debugging and conceptual guidance. The texture generation and particle system were adapted from common patterns but customized for this specific artwork.
-
-
-### Lessons Learned
-
-1. **3D Coordinate Systems**: Understanding the left-handed coordinate system in p5.js
-2. **Transformation Matrices**: How push() and pop() isolate transformations
-3. **Material Properties**: How different materials respond to light sources
-4. **Performance Optimization**: Managing draw calls for smooth 60fps animation
-
-
-## Assignment Requirements Checklist
-
-- 5+ 3D primitives (torus, sphere, cone, cylinder, ellipsoid, box)
-- Different materials (normalMaterial, ambientMaterial, specularMaterial, textures)
-- Spatial placement (translate with push/pop for each object)
-- Continuous rotation (all objects rotate on multiple axes)
-- Title and name (displayed in 3D space)
-- Self-contained (no external images needed - textures generated in code)
